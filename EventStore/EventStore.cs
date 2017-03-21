@@ -26,6 +26,7 @@ namespace ShoppingCartService.EventStore
 
             database.Add(new Event
             {
+                Id = seqNumber,
                 Key = Guid.NewGuid(),
                 Timestamp = DateTimeOffset.UtcNow,
                 Name = eventName,
