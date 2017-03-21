@@ -14,7 +14,12 @@ The Quantinuum Projects are reference architecture for microservices. This proje
 2. `dotnet build`
 3. `dotnet run`
 
-# Testing the project with Postman
+# Testing the project
+## Unit Tests
+(TODO)
+## Integration Tests
+(TODO)
+## Postman Tests
 (TODO)
 
 # Other things
