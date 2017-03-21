@@ -17,6 +17,6 @@ The Quantinuum Projects are reference architecture for microservices. This proje
 # Testing the project with Postman
 (TODO)
 
-#Other things
+# Other things
 (TODO)
 
